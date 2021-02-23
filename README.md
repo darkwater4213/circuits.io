@@ -1,24 +1,14 @@
-# shapez.io
+# circuitz.io
 
-<img src="https://i.imgur.com/Y5Z2iqQ.png" alt="shapez.io Logo">
+<img src="https://i.imgur.com/Y5Z2iqQ.png" alt="circuitz.io Logo">
 
-This is the source code for shapez.io, an open source base building game inspired by Factorio.
-Your goal is to produce shapes by cutting, rotating, merging and painting parts of shapes.
-
--   [Trello Board & Roadmap](https://trello.com/b/ISQncpJP/shapezio)
--   [Free web version](https://shapez.io)
--   [itch.io Page](https://tobspr.itch.io/shapezio)
--   [Steam Page](https://steam.shapez.io)
--   [Official Discord](https://discord.com/invite/HN7EVzV) <- _Highly recommended to join!_
+This is the source code for circuitz.io, a circuit and logic emulator built using a highly trimmed-down and edited version of [shapez.io](https://github.com/tobspr/shapez.io). **This is NOT official!!!** I fyou have a problem, nake sure to report it [here](https://github.com/issues/new) and make sure that it isn't on our end before going to the [original repo](https://github.com/tobspr/shapez.io)
 
 ## Reporting issues, suggestions, feedback, bugs
 
-1. Ask in `#bugs` / `#feedback` / `#questions` on the [Official Discord](https://discord.com/invite/HN7EVzV) if you are not entirely sure if it's a bug etc.
-2. Check out the trello board: https://trello.com/b/ISQncpJP/shapezio
-3. See if it's already there - If so, vote for it, done. I will see it. (You have to be signed in on trello)
-4. If not, check if it's already reported here: https://github.com/tobspr/shapez.io/issues
-5. If not, file a new issue here: https://github.com/tobspr/shapez.io/issues/new
-6. I will then have a look (This can take days or weeks) and convert it to trello, and comment with the link. You can then vote there ;)
+1. If not, check if it's already reported [here](https://github.com/tobspr/shapez.io/issues)
+5. If not, file a new issue [here](https://github.com/tobspr/shapez.io/issues/new)
+6. I will then have a look (This can take days or weeks) and and comment on it. If I like it, then I might start trying to make it. If 
 
 ## Building
 
